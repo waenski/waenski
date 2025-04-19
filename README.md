@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Twistzz 👨‍💻
 
-<!--
-**waenski/waenski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner web developer exploring the world of code!  
+Currently learning **JavaScript**, building fun web projects, and leveling up my GitHub. 💪
 
-Here are some ideas to get you started:
+## 🌱 Current Projects
+- Random Quote Generator [✔️](https://github.com/joshgulmatico/random-quote-generator)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Stack
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+## 📫 Contact Me
+- Email: josh.mgulmatico@gmail.com
+
+---
+
+> "Code. Debug. Repeat." 🚀
