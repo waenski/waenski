@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Twistzz/Josh
+# 👋 Hello, I'm Twistzz
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:08C8F6,100:1D2B64&height=200&section=header&text=Josh%20Gulmatico&fontSize=40&fontAlign=50&fontColor=ffffff)
 
