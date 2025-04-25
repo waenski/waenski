@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Joshpogi
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:08C8F6,100:1D2B64&height=200&section=header&text=Twistzz&fontSize=40&fontAlign=50&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:08C8F6,100:1D2B64&height=200&section=header&text=Twistzz?&fontSize=40&fontAlign=50&fontColor=ffffff)
 
 I'm a passionate **software developer** in the making 🌱  
 Currently building small but meaningful projects using **HTML**, **CSS**, and **JavaScript** 💻  
