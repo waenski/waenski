@@ -4,7 +4,16 @@
 
 I'm a passionate **software developer** in the making 🌱  
 Currently building small but meaningful projects using **HTML**, **CSS**, and **JavaScript** 💻  
-I love to learn, build, and share!
+I love to learn, build, and share! 
+I’m also an AMBIVERT.
+
+I love hangin around with people at the
+same time, i love having my alone time.
+
+So in case you do not know,
+I’m a mix of an extrovert and an introvert
+
+I have the best of both worlds! 
 
 ---
 
